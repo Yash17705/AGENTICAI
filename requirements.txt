@@ -1,0 +1,8 @@
+agno>=3.0.0
+groq>=1.0.0
+streamlit>=1.40.0
+yfinance>=1.0.0
+duckduckgo-search>=7.0.0
+youtube-transcript-api>=1.2.0
+python-dotenv>=1.0.0
+requests>=2.30.0
